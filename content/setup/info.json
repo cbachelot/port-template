@@ -2,7 +2,7 @@
   "sitename": "Clark Bachelot",
   "sitedescription": "Award winning designer that focuses on making pleasant user centered experiences both online and offline.",
   "siteicon": "/images/uploads/clark-b.png",
-  "showmenu": false,
+  "showmenu": true,
   "emailsignup": false,
   "altlayout": false,
   "menu": [
