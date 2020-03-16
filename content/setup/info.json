@@ -3,8 +3,8 @@
   "sitedescription": "Welcome to the on-line home of Clark Bachelot",
   "siteicon": "/images/uploads/icon.png",
   "showmenu": true,
-  "emailsignup": true,
-  "altlayout": true,
+  "emailsignup": false,
+  "altlayout": false,
   "menu": [
     {
       "name": "jake101",
