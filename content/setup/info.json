@@ -7,11 +7,6 @@
   "altlayout": true,
   "menu": [
     {
-      "name": "jake101",
-      "position": "1",
-      "link": "https://www.jake101.com/"
-    },
-    {
       "name": "Nuxt.js",
       "position": "2",
       "link": "https://www.nuxtjs.org/"
