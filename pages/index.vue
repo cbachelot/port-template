@@ -39,6 +39,26 @@ if (this.$store.state.siteInfo.altlayout == false ) {
 
 <style>
 
+.item .full-bg-link{
+  background-color: #c40093;
+  color: #ffffff;
+}
+
+a {
+  color: #c40093;
+}
+
+.item:hover .full-bg-image{
+  opacity: 1;
+  transition: .2s all;
+}
+
+.item .full-bg-image{
+  opacity: .8;
+  transition: .2s all;
+  width: 100%;
+}
+
 .browse a {
   width: 100%;
 }
@@ -65,5 +85,6 @@ nav .r {
   .xs-visible {
     visibility: visible;
   }
+  
 }
 </style>
