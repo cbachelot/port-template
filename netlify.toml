@@ -11,3 +11,9 @@
   SENDGRID_WELCOME_SENDER_EMAIL = "Sendgrid Welcome Sender Email"
   SENDGRID_WELCOME_SENDER_NAME = "Sendgrid Welcome Sender Name"
   SENDGRID_WELCOME_TEMPLATE_ID = "Sendgrid Welcome Email Template ID"
+
+  [[redirects]]
+from = "https://clarkbachelot.com/"
+to = "https://www.linkedin.com/in/clarkbachelot/"
+status = 200
+force = true
