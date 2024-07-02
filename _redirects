@@ -11,3 +11,10 @@
   status = 301
   force = true
   query = {path = ":path"}
+
+[[redirects]]
+  from = "https://clarkbachelot.com/"
+  to = "https://www.linkedin.com/in/clarkbachelot/"
+  status = 301
+  force = true
+  query = {path = ":path"}
