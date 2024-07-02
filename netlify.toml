@@ -15,5 +15,5 @@
   [[redirects]]
 from = "https://clarkbachelot.com/"
 to = "https://www.linkedin.com/in/clarkbachelot/"
-status = 200
+status = 301
 force = true
