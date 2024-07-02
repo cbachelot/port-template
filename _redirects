@@ -1,20 +1,2 @@
-[[redirects]]
-  from = "clarkbachelot.com"
-  to = "https://www.linkedin.com/in/clarkbachelot/"
-  status = 301
-  force = true
-  query = {path = ":path"}
-
-[[redirects]]
-  from = "www.clarkbachelot.com"
-  to = "https://www.linkedin.com/in/clarkbachelot/"
-  status = 301
-  force = true
-  query = {path = ":path"}
-
-[[redirects]]
-  from = "https://clarkbachelot.com/"
-  to = "https://www.linkedin.com/in/clarkbachelot/"
-  status = 301
-  force = true
-  query = {path = ":path"}
+# Redirect with a 301
+/home         https://www.linkedin.com/in/clarkbachelot/   301!
